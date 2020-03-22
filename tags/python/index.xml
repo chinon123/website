@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on ERIC WANG</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on ERIC WANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2020 Notepadium.</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>@MINISTRY OF ENVIRONMENT - What is data science at the national level ?</title>
+      <link>/post/mtes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mtes/</guid>
+      <description>&lt;p&gt;Central french administration is a great opportunity to have a macro view of how to drive ideas to reality. Combine it with the experience of local administration, you reinforce a thinking to lead and design digital tools for answers. I design and produce data insight for public policy evaluation.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
