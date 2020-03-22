@@ -6,7 +6,7 @@
     <description>Recent content in Tags on ERIC WANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>©2020 Notepadium.</copyright>
+    <copyright>©2020 ERIC WANG</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -88,16 +88,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/qgis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ArcGIS</title>
-      <link>/tags/arcgis/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/arcgis/</guid>
       <description></description>
       
     </item>
