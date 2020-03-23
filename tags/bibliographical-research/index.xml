@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>bibliographical research on ERIC WANG</title>
+    <link>/tags/bibliographical-research/</link>
+    <description>Recent content in bibliographical research on ERIC WANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2020 ERIC WANG</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/bibliographical-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>@MINISTRY OF ENVIRONMENT - How to urban plan with data science ?</title>
+      <link>/post/ddt95/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ddt95/</guid>
+      <description>&lt;p&gt;At the ministry of Environment and more especially at the local administration of Val d&#39;Oise department, I learn to manage and to tackle local housing policy.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>@SORBONNE UNIVERISTY - Does microcredit embolden education ?</title>
+      <link>/post/sorbonne/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sorbonne/</guid>
+      <description>&lt;p&gt;Master&#39;s thesis written during my master&#39;s degree in applied economics at Sorbonne University.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
