@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on ERIC WANG</title>
+    <link>/fr/tags/</link>
+    <description>Recent content in Tags on ERIC WANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2020 ERIC WANG</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Object</title>
+      <link>/fr/tags/business-object/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/business-object/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/fr/tags/python/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/fr/tags/r/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/r/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>/fr/tags/sql/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/sql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MS Office</title>
+      <link>/fr/tags/ms-office/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/ms-office/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>recherche bibliographique</title>
+      <link>/fr/tags/recherche-bibliographique/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/recherche-bibliographique/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Illustrator</title>
+      <link>/fr/tags/illustrator/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/illustrator/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>InDesign</title>
+      <link>/fr/tags/indesign/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/indesign/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>QGis</title>
+      <link>/fr/tags/qgis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/qgis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ArcGIS</title>
+      <link>/fr/tags/arcgis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/arcgis/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

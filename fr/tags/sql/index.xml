@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SQL on ERIC WANG</title>
+    <link>/fr/tags/sql/</link>
+    <description>Recent content in SQL on ERIC WANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2020 ERIC WANG</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/fr/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>@MINISTRY OF ENVIRONMENT - En quoi consiste la science des données au niveau national ?</title>
+      <link>/fr/post/mtes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/mtes/</guid>
+      <description>&lt;p&gt;L&#39;administration centrale française est une excellente occasion d&#39;avoir une vue d&#39;ensemble sur la façon de concrétiser les idées. Combinez-la avec l&#39;expérience de l&#39;administration locale, et vous renforcez la réflexion pour diriger et concevoir des outils numériques pour apporter des  réponses opérationnelles. Je conçois et produis des données pour l&#39;évaluation des politiques publiques.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>@MINISTERE DE L&#39;INTERIEUR - En quoi consiste le design graphique au ministère de l&#39;intérieur ?</title>
+      <link>/fr/post/police/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/police/</guid>
+      <description>&lt;p&gt;Au ministère de l&#39;Intérieur et plus particulièrement à la Police aux Frontières, je produis un nombre important d&#39;infographies pour mettre en évidence les éléments de language destinés au cabinet ministériel.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
