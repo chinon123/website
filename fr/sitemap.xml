@@ -1,249 +1,225 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://example.com/fr/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/mtes/"
+                href="/en/post/mtes/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/mtes/"
+                href="/fr/post/mtes/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/business-object/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/business-object/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/business-object/"
+                href="/en/tags/business-object/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/business-object/"
+                href="/fr/tags/business-object/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="/en/categories/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="/fr/categories/"
                 /></url><url>
-    <loc>https://example.com/fr/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="/en/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="/fr/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/finance/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/finance/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/finance/"
+                href="/en/categories/finance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/finance/"
+                href="/fr/categories/finance/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/politique-publique/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/politique-publique/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/post/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/politique-publique/"
+                href="/en/post/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/politique-publique/"
+                href="/fr/post/"
                 /></url><url>
-    <loc>https://example.com/fr/post/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/python/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/"
+                href="/en/tags/python/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/"
+                href="/fr/tags/python/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/python/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/r/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/python/"
+                href="/en/tags/r/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/python/"
+                href="/fr/tags/r/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/r/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/sql/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/r/"
+                href="/en/tags/sql/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/r/"
+                href="/fr/tags/sql/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/sql/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/sql/"
+                href="/en/tags/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/sql/"
+                href="/fr/tags/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/ddt95/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="/en/post/ddt95/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="/fr/post/ddt95/"
                 /></url><url>
-    <loc>https://example.com/fr/post/ddt95/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/ms-office/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/ddt95/"
+                href="/en/tags/ms-office/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/ddt95/"
+                href="/fr/tags/ms-office/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/ms-office/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/recherche-bibliographique/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/categories/urbanisme/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/post/police/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/ms-office/"
+                href="/en/post/police/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/ms-office/"
+                href="/fr/post/police/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/recherche-bibliographique/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/illustrator/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/recherche-bibliographique/"
+                href="/en/tags/illustrator/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/recherche-bibliographique/"
+                href="/fr/tags/illustrator/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/urbanisme/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/fr/post/police/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/indesign/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/police/"
+                href="/en/tags/indesign/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/police/"
+                href="/fr/tags/indesign/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/illustrator/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/poltiique-publique/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/tags/qgis/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/illustrator/"
+                href="/en/tags/qgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/illustrator/"
+                href="/fr/tags/qgis/"
                 /></url><url>
-    <loc>https://example.com/fr/tags/indesign/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/freelance/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/indesign/"
+                href="/en/post/freelance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/indesign/"
+                href="/fr/post/freelance/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/poltiique-publique/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/fr/tags/qgis/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/urgence-climatique/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/categories/%C3%A9ducation/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/post/carbone/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/qgis/"
+                href="/en/post/carbone/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/qgis/"
+                href="/fr/post/carbone/"
                 /></url><url>
-    <loc>https://example.com/fr/post/freelance/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/popupurbain/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/freelance/"
+                href="/en/post/popupurbain/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/freelance/"
+                href="/fr/post/popupurbain/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/urgence-climatique/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/fr/categories/%C3%A9ducation/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/eau/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/post/sorbonne/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/%C3%A9ducation/"
+                href="/en/post/sorbonne/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/%C3%A9ducation/"
+                href="/fr/post/sorbonne/"
                 /></url><url>
-    <loc>https://example.com/fr/post/carbone/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/public-policy/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/carbone/"
+                href="/en/categories/public-policy/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/carbone/"
+                href="/fr/categories/public-policy/"
                 /></url><url>
-    <loc>https://example.com/fr/post/popupurbain/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/paris/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/popupurbain/"
+                href="/en/post/paris/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/popupurbain/"
+                href="/fr/post/paris/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/eau/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>https://example.com/fr/post/sorbonne/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/sncf/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/sorbonne/"
+                href="/en/post/sncf/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/post/sorbonne/"
+                href="/fr/post/sncf/"
                 /></url><url>
-    <loc>https://example.com/fr/categories/public-policy/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/arcgis/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/public-policy/"
+                href="/en/tags/arcgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/public-policy/"
-                /></url><url>
-    <loc>https://example.com/fr/post/paris/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/post/paris/"
-                /><xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/post/paris/"
-                /></url><url>
-    <loc>https://example.com/fr/post/sncf/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/post/sncf/"
-                /><xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/post/sncf/"
-                /></url><url>
-    <loc>https://example.com/fr/tags/arcgis/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/tags/arcgis/"
-                /><xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/arcgis/"
+                href="/fr/tags/arcgis/"
                 /></url></urlset>
