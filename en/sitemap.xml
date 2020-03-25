@@ -1,252 +1,225 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https:///ericw.netlify.com/en/aboutme/</loc></url><url>
-    <loc>https:///ericw.netlify.com/en/resume/</loc></url><url>
-    <loc>https:///ericw.netlify.com/en/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/aboutme/</loc></url><url>
+    <loc>/en/resume/</loc></url><url>
+    <loc>/en/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/"
+                href="/fr/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/"
+                href="/en/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/mtes/"
+                href="/fr/post/mtes/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/mtes/"
+                href="/en/post/mtes/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/business-object/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/business-object/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/business-object/"
+                href="/fr/tags/business-object/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/business-object/"
+                href="/en/tags/business-object/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/categories/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/categories/"
+                href="/fr/categories/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/categories/"
+                href="/en/categories/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/finance/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/categories/finance/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/categories/finance/"
+                href="/fr/categories/finance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/categories/finance/"
+                href="/en/categories/finance/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/post/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/post/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/"
+                href="/fr/post/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/"
+                href="/en/post/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/public-policy/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/categories/public-policy/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/categories/public-policy/"
+                href="/fr/categories/public-policy/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/categories/public-policy/"
+                href="/en/categories/public-policy/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/python/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/python/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/python/"
+                href="/fr/tags/python/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/python/"
+                href="/en/tags/python/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/r/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/r/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/r/"
+                href="/fr/tags/r/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/r/"
+                href="/en/tags/r/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/sql/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/sql/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/sql/"
+                href="/fr/tags/sql/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/sql/"
+                href="/en/tags/sql/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/"
+                href="/fr/tags/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/"
+                href="/en/tags/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/post/ddt95/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/post/ddt95/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/ddt95/"
+                href="/fr/post/ddt95/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/ddt95/"
+                href="/en/post/ddt95/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/bibliographical-research/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/ms-office/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/bibliographical-research/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/en/tags/ms-office/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/ms-office/"
+                href="/fr/tags/ms-office/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/ms-office/"
+                href="/en/tags/ms-office/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/urban-planning/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>https:///ericw.netlify.com/en/post/police/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/categories/urban-planning/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/en/post/police/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/police/"
+                href="/fr/post/police/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/police/"
+                href="/en/post/police/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/illustrator/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/illustrator/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/illustrator/"
+                href="/fr/tags/illustrator/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/illustrator/"
+                href="/en/tags/illustrator/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/indesign/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/indesign/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/indesign/"
+                href="/fr/tags/indesign/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/indesign/"
+                href="/en/tags/indesign/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/qgis/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/qgis/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/qgis/"
+                href="/fr/tags/qgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/qgis/"
+                href="/en/tags/qgis/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/post/freelance/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/post/freelance/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/freelance/"
+                href="/fr/post/freelance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/freelance/"
+                href="/en/post/freelance/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/climate-emergency/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/education/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
-    <loc>https:///ericw.netlify.com/en/post/carbone/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/categories/climate-emergency/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
+    <loc>/en/categories/education/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
+    <loc>/en/post/carbone/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/carbone/"
+                href="/fr/post/carbone/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/carbone/"
+                href="/en/post/carbone/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/post/popupurbain/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/post/popupurbain/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/popupurbain/"
+                href="/fr/post/popupurbain/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/popupurbain/"
+                href="/en/post/popupurbain/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/water/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>https:///ericw.netlify.com/en/post/sorbonne/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/categories/water/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/en/post/sorbonne/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/sorbonne/"
+                href="/fr/post/sorbonne/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/post/sorbonne/"
+                href="/en/post/sorbonne/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/politique-publique/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/post/paris/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/categories/politique-publique/"
+                href="/fr/post/paris/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/categories/politique-publique/"
+                href="/en/post/paris/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/recherche-bibliographique/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/post/sncf/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/recherche-bibliographique/"
+                href="/fr/post/sncf/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/recherche-bibliographique/"
+                href="/en/post/sncf/"
                 /></url><url>
-    <loc>https:///ericw.netlify.com/en/categories/%C3%A9ducation/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/tags/arcgis/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https:///ericw.netlify.com/fr/categories/%C3%A9ducation/"
+                href="/fr/tags/arcgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:///ericw.netlify.com/en/categories/%C3%A9ducation/"
-                /></url><url>
-    <loc>https:///ericw.netlify.com/en/post/paris/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/paris/"
-                /><xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https:///ericw.netlify.com/en/post/paris/"
-                /></url><url>
-    <loc>https:///ericw.netlify.com/en/post/sncf/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https:///ericw.netlify.com/fr/post/sncf/"
-                /><xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https:///ericw.netlify.com/en/post/sncf/"
-                /></url><url>
-    <loc>https:///ericw.netlify.com/en/tags/arcgis/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https:///ericw.netlify.com/fr/tags/arcgis/"
-                /><xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https:///ericw.netlify.com/en/tags/arcgis/"
+                href="/en/tags/arcgis/"
                 /></url></urlset>

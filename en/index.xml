@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ERIC WANG</title>
-    <link>/ericw.netlify.com/en/</link>
+    <link>/en/</link>
     <description>Recent content on ERIC WANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2020 ERIC WANG</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/ericw.netlify.com/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>/ericw.netlify.com/en/aboutme/</link>
+      <link>/en/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ericw.netlify.com/en/aboutme/</guid>
+      <guid>/en/aboutme/</guid>
       <description>English Analyst &amp;amp; datascientist with experience in digital transformation in various administrations levels.
 Confirmed analyst with 5+ years experience in sustainable development questions and data scientist with 3+ years experience.
 Skilled in problem solving, programming and statistics (with attractive design). Shake out-of-the-box thinking to generate insight !
@@ -28,10 +28,10 @@ Skilled in problem solving, programming and statistics (with attractive design).
     
     <item>
       <title>Resume / CV</title>
-      <link>/ericw.netlify.com/en/resume/</link>
+      <link>/en/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ericw.netlify.com/en/resume/</guid>
+      <guid>/en/resume/</guid>
       <description>English Experience datascientist @Ministry of Environment jan. 2019 - current position
 Regarding 2 years law applience : lead design, development and production of a national application, a quarterly survey and a data reference. Project management of 2 apps. : 1 in mutation (corner-stone of housing policy) to business object and 1 in dev. (&amp;lt; 100k €).
 head of studies @Ministry of Environment sept. 2017 - dec. 2018
@@ -41,10 +41,10 @@ Design and production of an automatic territorial observatory for fast KPI&#39;s
     
     <item>
       <title>Posts</title>
-      <link>/ericw.netlify.com/en/post/</link>
+      <link>/en/post/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ericw.netlify.com/en/post/</guid>
+      <guid>/en/post/</guid>
       <description></description>
       
     </item>

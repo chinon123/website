@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>finance on ERIC WANG</title>
-    <link>/ericw.netlify.com/en/categories/finance/</link>
+    <link>/en/categories/finance/</link>
     <description>Recent content in finance on ERIC WANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2020 ERIC WANG</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/ericw.netlify.com/en/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/categories/finance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>@MINISTRY OF ENVIRONMENT - What is data science at the national level ?</title>
-      <link>/ericw.netlify.com/en/post/mtes/</link>
+      <link>/en/post/mtes/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/ericw.netlify.com/en/post/mtes/</guid>
+      <guid>/en/post/mtes/</guid>
       <description>&lt;p&gt;Central french administration is a great opportunity to have a macro view of how to drive ideas to reality. Combine it with the experience of local administration, and you reinforce thinking to lead and design digital tools for answers. I design and produce data insight into public policy evaluation.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>@SORBONNE- Le microcrédit encourage t&#39;il l&#39;éducation ?</title>
-      <link>/ericw.netlify.com/en/post/sorbonne/</link>
+      <title>@SORBONNE UNIVERISTY - Does microcredit embolden education ?</title>
+      <link>/en/post/sorbonne/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/ericw.netlify.com/en/post/sorbonne/</guid>
+      <guid>/en/post/sorbonne/</guid>
       <description>&lt;p&gt;Master&#39;s thesis written during my master&#39;s degree in applied economics at Sorbonne University.&lt;/p&gt;</description>
       
     </item>
