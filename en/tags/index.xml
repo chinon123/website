@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ERIC WANG</title>
-    <link>/en/tags/</link>
+    <link>/ericw.netlify.com/en/tags/</link>
     <description>Recent content in Tags on ERIC WANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2020 ERIC WANG</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/ericw.netlify.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Business Object</title>
-      <link>/en/tags/business-object/</link>
+      <link>/ericw.netlify.com/en/tags/business-object/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/business-object/</guid>
+      <guid>/ericw.netlify.com/en/tags/business-object/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>/en/tags/python/</link>
+      <link>/ericw.netlify.com/en/tags/python/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/python/</guid>
+      <guid>/ericw.netlify.com/en/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>R</title>
-      <link>/en/tags/r/</link>
+      <link>/ericw.netlify.com/en/tags/r/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/r/</guid>
+      <guid>/ericw.netlify.com/en/tags/r/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SQL</title>
-      <link>/en/tags/sql/</link>
+      <link>/ericw.netlify.com/en/tags/sql/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/sql/</guid>
+      <guid>/ericw.netlify.com/en/tags/sql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>bibliographical research</title>
-      <link>/en/tags/bibliographical-research/</link>
+      <link>/ericw.netlify.com/en/tags/bibliographical-research/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/bibliographical-research/</guid>
+      <guid>/ericw.netlify.com/en/tags/bibliographical-research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MS Office</title>
-      <link>/en/tags/ms-office/</link>
+      <link>/ericw.netlify.com/en/tags/ms-office/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/ms-office/</guid>
+      <guid>/ericw.netlify.com/en/tags/ms-office/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Illustrator</title>
-      <link>/en/tags/illustrator/</link>
+      <link>/ericw.netlify.com/en/tags/illustrator/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/illustrator/</guid>
+      <guid>/ericw.netlify.com/en/tags/illustrator/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>InDesign</title>
-      <link>/en/tags/indesign/</link>
+      <link>/ericw.netlify.com/en/tags/indesign/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/indesign/</guid>
+      <guid>/ericw.netlify.com/en/tags/indesign/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Qgis</title>
-      <link>/en/tags/qgis/</link>
+      <link>/ericw.netlify.com/en/tags/qgis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/qgis/</guid>
+      <guid>/ericw.netlify.com/en/tags/qgis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>recherche bibliographique</title>
-      <link>/en/tags/recherche-bibliographique/</link>
+      <link>/ericw.netlify.com/en/tags/recherche-bibliographique/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/recherche-bibliographique/</guid>
+      <guid>/ericw.netlify.com/en/tags/recherche-bibliographique/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ArcGIS</title>
-      <link>/en/tags/arcgis/</link>
+      <link>/ericw.netlify.com/en/tags/arcgis/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/arcgis/</guid>
+      <guid>/ericw.netlify.com/en/tags/arcgis/</guid>
       <description></description>
       
     </item>
