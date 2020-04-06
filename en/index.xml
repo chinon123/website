@@ -18,24 +18,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/en/aboutme/</guid>
-      <description>English Analyst &amp;amp; datascientist with experience in digital transformation in various administrations levels.
+      <description>  Analyst &amp;amp; datascientist with experience in digital transformation in various administrations levels.
 Confirmed analyst with 5+ years experience in sustainable development questions and data scientist with 3+ years experience.
 Skilled in problem solving, programming and statistics (with attractive design). Shake out-of-the-box thinking to generate insight !
  I am looking for new opportunities.
- Français Analyste et datascientifique ayant une expérience de la transformation numérique à différents niveaux de l&#39;administration.</description>
+ </description>
       
     </item>
     
     <item>
-      <title>Resume / CV</title>
+      <title>References</title>
+      <link>/en/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/references/</guid>
+      <description>reference letter from the position at the ministry of environment in 2019 as data scientist
+extract and its traduction : Mr. Wang does his job perfectly and much more. His ability to analyze and adapt, his mastery of certain tools such as R, his autonomy and his ability to report in a simple way on technical subjects is an asset for the office. His attitude and interpersonal skills allow for group cohesion in teamwork, particularly in disarming conflicts and facilitating discussions between very different profiles.</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
       <link>/en/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/en/resume/</guid>
-      <description>English Experience datascientist @Ministry of Environment jan. 2019 - current position
-Regarding 2 years law applience : lead design, development and production of a national application, a quarterly survey and a data reference. Project management of 2 apps. : 1 in mutation (corner-stone of housing policy) to business object and 1 in dev. (&amp;lt; 100k €).
-head of studies @Ministry of Environment sept. 2017 - dec. 2018
-Design and production of an automatic territorial observatory for fast KPI&#39;s.</description>
+      <description> resume in pdf
+ resume in .png
+  </description>
       
     </item>
     

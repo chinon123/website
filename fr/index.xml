@@ -13,6 +13,47 @@
     
     
     <item>
+      <title>About me</title>
+      <link>/fr/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/aboutme/</guid>
+      <description>Analyste et datascientifique ayant une expérience de la transformation numérique à différents niveaux de l&#39;administration.
+Analyste confirmé avec plus de 5 ans d&#39;expérience dans les questions de développement durable et datascientifique avec plus de 3 ans d&#39;expérience.
+Compétences en matière de résolution de problèmes, de programmation et de statistiques (avec un design attrayant). Secouez la pensée &amp;ldquo;prête à l&#39;emploi&amp;rdquo; pour générer de la perspicacité !
+ Je suis à la recherche de nouvelles opportunités.</description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/fr/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/resume/</guid>
+      <description> cv en pdf
+ cv en .png
+  </description>
+      
+    </item>
+    
+    <item>
+      <title>Références</title>
+      <link>/fr/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/references/</guid>
+      <description>compte rendu d&#39;entretien professionnel 2019 au ministère de l&#39;écologie, data scientist
+extrait
+  compte rendu d&#39;entretien professionnel 2018 au ministère de l&#39;écologie, responsable des études
+extrait
+  lettre de recommandation de la mission du CNRS en 2016, freelance
+extrait
+  </description>
+      
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>/fr/post/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>

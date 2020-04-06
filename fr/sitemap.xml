@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>/fr/aboutme/</loc><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/aboutme/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/aboutme/"
+                /></url><url>
+    <loc>/fr/resume/</loc><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/resume/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/resume/"
+                /></url><url>
+    <loc>/fr/references/</loc><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/references/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/references/"
+                /></url><url>
     <loc>/fr/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"

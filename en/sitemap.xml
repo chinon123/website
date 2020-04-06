@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>/en/aboutme/</loc></url><url>
-    <loc>/en/resume/</loc></url><url>
+    <loc>/en/aboutme/</loc><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/aboutme/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/aboutme/"
+                /></url><url>
+    <loc>/en/references/</loc><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/references/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/references/"
+                /></url><url>
+    <loc>/en/resume/</loc><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/resume/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/resume/"
+                /></url><url>
     <loc>/en/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
