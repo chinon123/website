@@ -35,7 +35,7 @@
     <item>
       <title>urbanisme</title>
       <link>/fr/categories/urbanisme/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/fr/categories/urbanisme/</guid>
       <description></description>
@@ -45,7 +45,7 @@
     <item>
       <title>poltiique publique</title>
       <link>/fr/categories/poltiique-publique/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/fr/categories/poltiique-publique/</guid>
       <description></description>
@@ -55,7 +55,7 @@
     <item>
       <title>urgence climatique</title>
       <link>/fr/categories/urgence-climatique/</link>
-      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>/fr/categories/urgence-climatique/</guid>
       <description></description>
@@ -65,7 +65,7 @@
     <item>
       <title>éducation</title>
       <link>/fr/categories/%C3%A9ducation/</link>
-      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>/fr/categories/%C3%A9ducation/</guid>
       <description></description>
@@ -73,11 +73,21 @@
     </item>
     
     <item>
-      <title>eau</title>
-      <link>/fr/categories/eau/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title>climate emergency</title>
+      <link>/fr/categories/climate-emergency/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/fr/categories/eau/</guid>
+      <guid>/fr/categories/climate-emergency/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>water</title>
+      <link>/fr/categories/water/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/categories/water/</guid>
       <description></description>
       
     </item>
@@ -85,9 +95,19 @@
     <item>
       <title>public policy</title>
       <link>/fr/categories/public-policy/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/fr/categories/public-policy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>eau</title>
+      <link>/fr/categories/eau/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/categories/eau/</guid>
       <description></description>
       
     </item>

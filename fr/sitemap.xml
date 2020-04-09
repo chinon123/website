@@ -118,7 +118,7 @@
                 hreflang="fr"
                 href="/fr/tags/"
                 /></url><url>
-    <loc>/fr/post/ddt95/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/ddt95/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/ddt95/"
@@ -127,7 +127,7 @@
                 hreflang="fr"
                 href="/fr/post/ddt95/"
                 /></url><url>
-    <loc>/fr/tags/ms-office/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/ms-office/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/ms-office/"
@@ -136,9 +136,9 @@
                 hreflang="fr"
                 href="/fr/tags/ms-office/"
                 /></url><url>
-    <loc>/fr/tags/recherche-bibliographique/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>/fr/categories/urbanisme/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>/fr/post/police/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/recherche-bibliographique/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/categories/urbanisme/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/post/police/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/police/"
@@ -147,7 +147,7 @@
                 hreflang="fr"
                 href="/fr/post/police/"
                 /></url><url>
-    <loc>/fr/tags/illustrator/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/illustrator/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/illustrator/"
@@ -156,7 +156,7 @@
                 hreflang="fr"
                 href="/fr/tags/illustrator/"
                 /></url><url>
-    <loc>/fr/tags/indesign/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/indesign/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/indesign/"
@@ -165,8 +165,8 @@
                 hreflang="fr"
                 href="/fr/tags/indesign/"
                 /></url><url>
-    <loc>/fr/categories/poltiique-publique/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>/fr/tags/qgis/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/poltiique-publique/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/tags/qgis/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/qgis/"
@@ -175,7 +175,7 @@
                 hreflang="fr"
                 href="/fr/tags/qgis/"
                 /></url><url>
-    <loc>/fr/post/freelance/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/freelance/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/freelance/"
@@ -184,18 +184,9 @@
                 hreflang="fr"
                 href="/fr/post/freelance/"
                 /></url><url>
-    <loc>/fr/categories/urgence-climatique/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
-    <loc>/fr/categories/%C3%A9ducation/</loc><lastmod>2015-04-02T00:00:00+00:00</lastmod></url><url>
-    <loc>/fr/post/carbone/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/carbone/"
-                /><xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/post/carbone/"
-                /></url><url>
-    <loc>/fr/post/popupurbain/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/urgence-climatique/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/categories/%C3%A9ducation/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/fr/post/popupurbain/</loc><lastmod>2015-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/popupurbain/"
@@ -204,35 +195,34 @@
                 hreflang="fr"
                 href="/fr/post/popupurbain/"
                 /></url><url>
-    <loc>/fr/categories/eau/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url><url>
-    <loc>/fr/post/sorbonne/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/carbone/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/sorbonne/"
+                href="/en/post/carbone/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/post/sorbonne/"
+                href="/fr/post/carbone/"
                 /></url><url>
-    <loc>/fr/categories/public-policy/</loc><lastmod>2014-04-02T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/climate-emergency/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/public-policy/"
+                href="/en/categories/climate-emergency/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/public-policy/"
+                href="/fr/categories/climate-emergency/"
                 /></url><url>
-    <loc>/fr/post/paris/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/categories/water/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/paris/"
+                href="/en/categories/water/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/post/paris/"
+                href="/fr/categories/water/"
                 /></url><url>
-    <loc>/fr/post/sncf/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/post/sncf/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/sncf/"
@@ -241,7 +231,7 @@
                 hreflang="fr"
                 href="/fr/post/sncf/"
                 /></url><url>
-    <loc>/fr/tags/arcgis/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/fr/tags/arcgis/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/arcgis/"
@@ -249,4 +239,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/arcgis/"
-                /></url></urlset>
+                /></url><url>
+    <loc>/fr/post/sorbonne/</loc><lastmod>2014-04-01T00:00:00+00:00</lastmod><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/sorbonne/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/sorbonne/"
+                /></url><url>
+    <loc>/fr/categories/public-policy/</loc><lastmod>2014-04-01T00:00:00+00:00</lastmod><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/public-policy/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/public-policy/"
+                /></url><url>
+    <loc>/fr/post/paris/</loc><lastmod>2013-04-01T00:00:00+00:00</lastmod><xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/paris/"
+                /><xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/paris/"
+                /></url><url>
+    <loc>/fr/categories/eau/</loc><lastmod>2013-04-01T00:00:00+00:00</lastmod></url></urlset>
