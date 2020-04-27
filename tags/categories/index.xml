@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on ERIC WANG</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on ERIC WANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2020 ERIC WANG.</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>finance</title>
+      <link>/categories/finance/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>public policy</title>
+      <link>/categories/public-policy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/public-policy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>urban planning</title>
+      <link>/categories/urban-planning/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/urban-planning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>climate emergency</title>
+      <link>/categories/climate-emergency/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/climate-emergency/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>/categories/education/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/education/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>water</title>
+      <link>/categories/water/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/water/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

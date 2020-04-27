@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Business Object on ERIC WANG</title>
+    <link>/fr/tags/business-object/</link>
+    <description>Recent content in Business Object on ERIC WANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2020 ERIC WANG.</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/fr/tags/business-object/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>@Ministère de l&#39;Environnement - Data scientist</title>
+      <link>/fr/post/mtes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/mtes/</guid>
+      <description>&lt;p&gt;L&#39;administration centrale française est une excellente occasion d&#39;avoir une vue d&#39;ensemble sur la façon de concrétiser les idées. Combinez-la avec l&#39;expérience de l&#39;administration locale, et vous renforcez la réflexion pour diriger et concevoir des outils numériques pour apporter des  réponses opérationnelles. Je conçois et produis des données pour l&#39;évaluation des politiques publiques.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>@Ministère de l&#39;Environment - Responsable des études</title>
+      <link>/fr/post/ddt95/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/ddt95/</guid>
+      <description>&lt;p&gt;Au ministère de l&#39;Environnement et plus particulièrement à la Direction départementale du Val d&#39;Oise, j&#39;apprends à gérer et à aborder la politique locale du logement.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

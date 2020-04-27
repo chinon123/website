@@ -1,113 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on ERIC WANG</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on ERIC WANG</description>
+    <title>ERIC WANG</title>
+    <link>/</link>
+    <description>Recent content on ERIC WANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2020 ERIC WANG.</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Business Object</title>
-      <link>/tags/business-object/</link>
+      <title>About me</title>
+      <link>/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description>  Analyst &amp;amp; datascientist with experience in digital transformation in various administrations levels.
+Confirmed analyst with 5+ years experience in sustainable development questions and data scientist with 3+ years experience.
+Skilled in problem solving, programming and statistics (with attractive design). Shake out-of-the-box thinking to generate insight !
+ I am looking for new opportunities.
+ </description>
+      
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/references/</guid>
+      <description>reference letter from the position at the ministry of environment in 2019 as data scientist
+extract and its traduction : Mr. Wang does his job perfectly and much more. His ability to analyze and adapt, his mastery of certain tools such as R, his autonomy and his ability to report in a simple way on technical subjects is an asset for the office. His attitude and interpersonal skills allow for group cohesion in teamwork, particularly in disarming conflicts and facilitating discussions between very different profiles.</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description> resume in pdf
+ resume in .png
+  </description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/business-object/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>/tags/sql/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sql/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>bibliographical research</title>
-      <link>/tags/bibliographical-research/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bibliographical-research/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MS Office</title>
-      <link>/tags/ms-office/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ms-office/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Illustrator</title>
-      <link>/tags/illustrator/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/illustrator/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>InDesign</title>
-      <link>/tags/indesign/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/indesign/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Qgis</title>
-      <link>/tags/qgis/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/qgis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ArcGIS</title>
-      <link>/tags/arcgis/</link>
-      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/arcgis/</guid>
+      <guid>/post/</guid>
       <description></description>
       
     </item>
