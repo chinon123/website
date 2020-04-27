@@ -3,7 +3,7 @@
     <loc>/fr/aboutme/</loc><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/aboutme/"
+                href="/aboutme/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -12,7 +12,7 @@
     <loc>/fr/resume/</loc><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/resume/"
+                href="/resume/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -21,7 +21,7 @@
     <loc>/fr/references/</loc><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/references/"
+                href="/references/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,7 +30,7 @@
     <loc>/fr/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/mtes/"
+                href="/post/mtes/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -39,7 +39,7 @@
     <loc>/fr/tags/business-object/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/business-object/"
+                href="/tags/business-object/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -48,7 +48,7 @@
     <loc>/fr/categories/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -57,7 +57,7 @@
     <loc>/fr/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -66,7 +66,7 @@
     <loc>/fr/categories/finance/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/finance/"
+                href="/categories/finance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -76,7 +76,7 @@
     <loc>/fr/post/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/"
+                href="/post/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -85,7 +85,7 @@
     <loc>/fr/tags/python/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/python/"
+                href="/tags/python/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -94,7 +94,7 @@
     <loc>/fr/tags/r/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/r/"
+                href="/tags/r/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -103,7 +103,7 @@
     <loc>/fr/tags/sql/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/sql/"
+                href="/tags/sql/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -112,7 +112,7 @@
     <loc>/fr/tags/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -121,7 +121,7 @@
     <loc>/fr/post/ddt95/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/ddt95/"
+                href="/post/ddt95/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -130,7 +130,7 @@
     <loc>/fr/tags/ms-office/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/ms-office/"
+                href="/tags/ms-office/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -141,7 +141,7 @@
     <loc>/fr/post/police/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/police/"
+                href="/post/police/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -150,7 +150,7 @@
     <loc>/fr/tags/illustrator/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/illustrator/"
+                href="/tags/illustrator/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -159,7 +159,7 @@
     <loc>/fr/tags/indesign/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/indesign/"
+                href="/tags/indesign/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -169,7 +169,7 @@
     <loc>/fr/tags/qgis/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/qgis/"
+                href="/tags/qgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -178,7 +178,7 @@
     <loc>/fr/post/freelance/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/freelance/"
+                href="/post/freelance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -189,7 +189,7 @@
     <loc>/fr/post/popupurbain/</loc><lastmod>2015-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/popupurbain/"
+                href="/post/popupurbain/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -198,7 +198,7 @@
     <loc>/fr/post/carbone/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/carbone/"
+                href="/post/carbone/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -207,7 +207,7 @@
     <loc>/fr/categories/climate-emergency/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/climate-emergency/"
+                href="/categories/climate-emergency/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -216,7 +216,7 @@
     <loc>/fr/categories/water/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/water/"
+                href="/categories/water/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -225,7 +225,7 @@
     <loc>/fr/post/sncf/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/sncf/"
+                href="/post/sncf/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -234,7 +234,7 @@
     <loc>/fr/tags/arcgis/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/arcgis/"
+                href="/tags/arcgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -243,7 +243,7 @@
     <loc>/fr/post/sorbonne/</loc><lastmod>2014-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/sorbonne/"
+                href="/post/sorbonne/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -252,7 +252,7 @@
     <loc>/fr/categories/public-policy/</loc><lastmod>2014-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/public-policy/"
+                href="/categories/public-policy/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -261,7 +261,7 @@
     <loc>/fr/post/paris/</loc><lastmod>2013-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/paris/"
+                href="/post/paris/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="fr"

@@ -1,266 +1,266 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>/en/aboutme/</loc><xhtml:link
+    <loc>/aboutme/</loc><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/aboutme/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/aboutme/"
+                href="/aboutme/"
                 /></url><url>
-    <loc>/en/references/</loc><xhtml:link
+    <loc>/references/</loc><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/references/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/references/"
+                href="/references/"
                 /></url><url>
-    <loc>/en/resume/</loc><xhtml:link
+    <loc>/resume/</loc><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/resume/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/resume/"
+                href="/resume/"
                 /></url><url>
-    <loc>/en/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/"
                 /></url><url>
-    <loc>/en/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/mtes/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/mtes/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/mtes/"
+                href="/post/mtes/"
                 /></url><url>
-    <loc>/en/tags/business-object/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/business-object/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/business-object/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/business-object/"
+                href="/tags/business-object/"
                 /></url><url>
-    <loc>/en/categories/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/categories/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 /></url><url>
-    <loc>/en/categories/finance/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/categories/finance/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/finance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/finance/"
+                href="/categories/finance/"
                 /></url><url>
-    <loc>/en/post/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/"
+                href="/post/"
                 /></url><url>
-    <loc>/en/categories/public-policy/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/categories/public-policy/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/public-policy/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/public-policy/"
+                href="/categories/public-policy/"
                 /></url><url>
-    <loc>/en/tags/python/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/python/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/python/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/python/"
+                href="/tags/python/"
                 /></url><url>
-    <loc>/en/tags/r/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/r/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/r/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/r/"
+                href="/tags/r/"
                 /></url><url>
-    <loc>/en/tags/sql/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/sql/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/sql/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/sql/"
+                href="/tags/sql/"
                 /></url><url>
-    <loc>/en/tags/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 /></url><url>
-    <loc>/en/post/ddt95/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/ddt95/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/ddt95/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/ddt95/"
+                href="/post/ddt95/"
                 /></url><url>
-    <loc>/en/tags/bibliographical-research/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod></url><url>
-    <loc>/en/tags/ms-office/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/bibliographical-research/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/tags/ms-office/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/ms-office/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/ms-office/"
+                href="/tags/ms-office/"
                 /></url><url>
-    <loc>/en/categories/urban-planning/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod></url><url>
-    <loc>/en/post/police/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/categories/urban-planning/</loc><lastmod>2017-09-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/police/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/police/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/police/"
+                href="/post/police/"
                 /></url><url>
-    <loc>/en/tags/illustrator/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/illustrator/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/illustrator/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/illustrator/"
+                href="/tags/illustrator/"
                 /></url><url>
-    <loc>/en/tags/indesign/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/indesign/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/indesign/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/indesign/"
+                href="/tags/indesign/"
                 /></url><url>
-    <loc>/en/tags/qgis/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/qgis/</loc><lastmod>2016-09-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/qgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/qgis/"
+                href="/tags/qgis/"
                 /></url><url>
-    <loc>/en/post/freelance/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/freelance/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/freelance/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/freelance/"
+                href="/post/freelance/"
                 /></url><url>
-    <loc>/en/categories/climate-emergency/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/categories/climate-emergency/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/climate-emergency/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/climate-emergency/"
+                href="/categories/climate-emergency/"
                 /></url><url>
-    <loc>/en/categories/education/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod></url><url>
-    <loc>/en/post/popupurbain/</loc><lastmod>2015-04-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/categories/education/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod></url><url>
+    <loc>/post/popupurbain/</loc><lastmod>2015-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/popupurbain/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/popupurbain/"
+                href="/post/popupurbain/"
                 /></url><url>
-    <loc>/en/post/carbone/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/carbone/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/carbone/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/carbone/"
+                href="/post/carbone/"
                 /></url><url>
-    <loc>/en/categories/water/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/categories/water/</loc><lastmod>2015-03-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/water/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/water/"
+                href="/categories/water/"
                 /></url><url>
-    <loc>/en/post/sncf/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/sncf/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/sncf/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/sncf/"
+                href="/post/sncf/"
                 /></url><url>
-    <loc>/en/tags/arcgis/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/tags/arcgis/</loc><lastmod>2014-05-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/arcgis/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/arcgis/"
+                href="/tags/arcgis/"
                 /></url><url>
-    <loc>/en/post/sorbonne/</loc><lastmod>2014-04-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/sorbonne/</loc><lastmod>2014-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/sorbonne/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/sorbonne/"
+                href="/post/sorbonne/"
                 /></url><url>
-    <loc>/en/post/paris/</loc><lastmod>2013-04-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/post/paris/</loc><lastmod>2013-04-01T00:00:00+00:00</lastmod><xhtml:link
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/post/paris/"
                 /><xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/post/paris/"
+                href="/post/paris/"
                 /></url></urlset>
